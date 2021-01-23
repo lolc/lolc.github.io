@@ -1,0 +1,26 @@
+entries:
+  - title: About
+    entries:
+      - title: Contact
+        url: /contact.html
+      - title: Qualifications
+        url: /qualifications.html
+      - title: Biography
+        url: /biography.html
+
+  - title: Funding
+    url: /funding.html
+
+  - title: Awards
+    url: /awards.html
+
+  - title: Publications
+    entries:
+      - title: Journals
+        url: /journals.html
+      - title: Conferences
+        url: /conferences.html
+      - title: Talks
+        url: /talks.html
+      - title: Theses
+        url: /theses.html
