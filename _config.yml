@@ -38,9 +38,9 @@ theme_config:
   show_description: true # show blog description in home page
 
 # Build settings
-#theme: minima
 #theme: no-style-please
 remote_theme: riggraz/no-style-please
+
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
