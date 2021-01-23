@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Lawrence Ong's homepage
+title: Lawrence Ong's Homepage
 author: Lawrence Ong
-email: your-email@example.com
+email: lawrence.ong@newcastle.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
  Associate Professor <br> 
  Director of Centre for Secure and Reliable Communications
@@ -28,9 +28,8 @@ description: >- # this means to ignore newlines until "baseurl:"
  The University of Newcastle
  
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyllo
+url: "" # https://lolc.github.io/ # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  lolc
 
 theme_config:
   appearance: "auto" # can be "light", "dark" or "auto"
@@ -41,8 +40,13 @@ theme_config:
 # Build settings
 #theme: minima
 theme: no-style-please
+#remote_theme: riggraz/no-style-please
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
+sass:
+  style: :compressed
 
 # Exclude from processing.
 # The following items will not be processed, by default.
