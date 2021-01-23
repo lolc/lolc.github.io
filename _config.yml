@@ -23,8 +23,7 @@ author: Lawrence Ong
 email: lawrence.ong@newcastle.edu.au
 description: >- # this means to ignore newlines until "baseurl:"
  Associate Professor <br> 
- Director of Centre for Secure and Reliable Communications
- <br>
+ Director of Centre for Secure and Reliable Communications <br>
  The University of Newcastle
  
 baseurl: "" # the subpath of your site, e.g. /blog
