@@ -10,3 +10,4 @@ title: Useful Resources
 - [**Information Theory, Inference, and Learning Algorithms**](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)<br /> David MacKay, 2003
 
 - [**A First Course in Information Theory (preprint)**](http://iest2.ie.cuhk.edu.hk/~whyeung/book/)<br /> Raymond W. Yeung, 2002
+
