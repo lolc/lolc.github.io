@@ -24,3 +24,15 @@ entries:
         url: /talks.html
       - title: Theses
         url: /theses.html
+
+  - title: Research supervision
+    url: /supervision.html
+    
+  - title: Research interests
+    entries:
+      - title: Information theory, multiterminal communications, index coding, information-theoretic security
+
+  - title: External inks
+    entries:
+      - title: Useful resources
+        url: /resources.html
