@@ -40,6 +40,9 @@ permalink: /:slug.html
 
 favicon: "favicon.png"
 
+goat_counter: lolc
+google_analytics: G-SYPXS0LM8H
+
 # Build settings
 #theme: no-style-please
 remote_theme: riggraz/no-style-please
