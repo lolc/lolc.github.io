@@ -21,8 +21,8 @@
 title: lawrence ong
 author: Lawrence Ong
 email: lawrence.ong@newcastle.edu.au
-description: >- # this means to ignore newlines until "baseurl:"
- Associate Professor <br> 
+description: > # description of the site (multiple lines allowed)
+ Associate Professor<br>
  Director of Centre for Secure and Reliable Communications <br>
  The University of Newcastle
  
@@ -36,6 +36,10 @@ theme_config:
   date_format: "%Y-%m-%d" # customize how date is formatted
   show_description: true # show blog description in home page
 
+permalink: /:slug.html
+
+favicon: "favicon.png"
+
 # Build settings
 #theme: no-style-please
 remote_theme: riggraz/no-style-please
@@ -45,7 +49,7 @@ plugins:
   - jekyll-seo-tag
 
 sass:
-  style: :compressed
+  style: :compressed # when Jekyll compiles your Sass, you’ll have no whitespace in your CSS. Be sure to turn this on for production environments if file size is of any concern.
 
 # Exclude from processing.
 # The following items will not be processed, by default.

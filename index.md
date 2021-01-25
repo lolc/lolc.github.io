@@ -4,6 +4,6 @@
 
 layout: home
 ---
-This page is still under construction. More coming...
+This page is still under construction. More coming . . .
 
-Copyright (c) 2021 Lawrence Ong
+Copyright &#169; 2021 Lawrence Ong
