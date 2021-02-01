@@ -2,6 +2,8 @@
 layout: page
 title: Journal Publications
 ---
+[32] **Lawrence Ong**, Badri N. Vellambi, Jörg Kliewer, Phee Lep Yeoh, "A Code and Rate Equivalence between Secure Network and Index Coding", IEEE Journal on Selected Areas in Information Theory, 2021. [[DOI](https://doi.org/10.1109/JSAIT.2021.3054847)]
+
 [31] Chandra Thapa, **Lawrence Ong**, Sarah J. Johnson, Min Li "Structural Characteristics of Two-Sender Index Coding", *Entropy*, Vol. 21 No. 6:615, 2019. [[pdf](https://arxiv.org/pdf/1711.08150.pdf),[DOI](https://doi.org/10.3390/e21060615)]
 
 [30] Min Li, **Lawrence Ong**, Sarah J. Johnson, "Cooperative Multi-Sender Index Coding", *IEEE Transactions on Information Theory*, Vol. 65, No. 3, pp. 1725-1739, Mar. 2019. [[pdf](http://hdl.handle.net/1959.13/1407041),[DOI](https://doi.org/10.1109/TIT.2018.2869161)]
