@@ -1,38 +1,45 @@
 entries:
-  - title: About
+  - title: about
     entries:
-      - title: Contact
+      - title: contact
         url: /contact.html
-      - title: Qualifications
+      - title: qualifications
         url: /qualifications.html
-      - title: Biography
+      - title: biography
         url: /biography.html
 
-  - title: Funding
+  - title: funding
     url: /funding.html
 
-  - title: Awards
+  - title: awards
     url: /awards.html
 
-  - title: Publications
+  - title: publications
     entries:
-      - title: Journals
+      - title: journals
         url: /journals.html
-      - title: Conferences
+      - title: conferences
         url: /conferences.html
-      - title: Talks
+      - title: talks
         url: /talks.html
-      - title: Theses
+      - title: theses
         url: /theses.html
 
-  - title: Research supervision
+  - title: research supervision
     url: /supervision.html
-    
-  - title: Research interests
-    entries:
-      - title: Information theory, multiterminal communications, index coding, information-theoretic security
 
-  - title: External inks
+  - title: research interests
     entries:
-      - title: Useful resources
+      - title: information theory, multiterminal communications, index coding, information-theoretic security
+
+  - title: posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+    
+  - title: external inks
+    entries:
+      - title: useful resources
         url: /resources.html
