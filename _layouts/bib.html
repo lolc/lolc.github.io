@@ -1,6 +1,21 @@
 ---
 ---
 
+  <strong>{{entry.title}}</strong> <br>
+    by {{entry.author}} <br>
+  in <em>{{entry.journal}}</em>, {{entry.volume}}({{entry.number}}), {{entry.month}} {{entry.year}}<br>
+  <div class="mylinks">
+    {% if entry.doi %}
+      <a href="https://dx.doi.org/{{ entry.doi }}" class="mybtn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
+      {% endif %}    
+    {% if entry.url %}
+      <a href="{{ entry.url }}" class="mybtn btn-sm z-depth-0" role="button" target="_blank">PDF</a>
+      {% endif %}
+      </div>
+
+
+
+<!--
 <div class="row">
   <div class="col-sm-2 abbr">
   {% if entry.abbr %}
@@ -131,18 +146,6 @@
     {% endif %}
     </div>
 
-    <!-- Hidden abstract block -->
-    {% if entry.abstract %}
-    <div class="abstract hidden">
-      <p>{{ entry.abstract }}</p>
-    </div>
-    {% endif %}
-
-    <!-- Hidden bibtex block -->
-    {% if entry.bibtex_show %}
-    <div class="bibtex hidden">
-      {% highlight bibtex %}{{ entry.bibtex }}{% endhighlight %}
-    </div>
-    {% endif %}
   </div>
 </div>
+-->

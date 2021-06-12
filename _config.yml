@@ -12,7 +12,6 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
 icon: favicon.png # the emoji used as the favicon
 url: https://www.lawrenceong.com  # the base hostname & protocol for your site
@@ -59,17 +58,17 @@ keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 
 google_analytics: G-SYPXS0LM8H # out your google-analytics code
 panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
+goat_counter: lolc
 
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio  # your blog must have a name for it to show up in the nav bar
-blog_description: a simple whitespace theme for academics
+blog_name: my.blog  # your blog must have a name for it to show up in the nav bar
+blog_description: random thoughts
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -143,11 +142,13 @@ github: [metadata]
 
 scholar:
 
-  last_name: Einstein
-  first_name: [Albert, A.]
+  last_name: Ong
+  first_name: [Lawrence, L.]
 
-  style: apa
+  style: /assets/bibliography/ieee-with-url.csl
   locale: en
+  sort_by: year, month
+  order: descending, descending
 
   source: /_bibliography/
   bibliography: papers.bib
@@ -160,13 +161,17 @@ scholar:
   details_layout: bibtex.html
   details_link: Details
 
+  bibliography_list_attributes:
+    reversed: "reversed"
+
+
   query: "@*"
 
 # -----------------------------------------------------------------------------
 # Optional Features
 # -----------------------------------------------------------------------------
 
-enable_google_analytics:    false  # enables google analytics
+enable_google_analytics:    true  # enables google analytics
 enable_panelbear_analytics: false  # enables panelbear analytics
 enable_mansory:             true   # enables automatic project cards arangement
 enable_math:                true   # enables math typesetting (uses MathJax)
