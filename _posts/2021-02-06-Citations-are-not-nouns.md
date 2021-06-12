@@ -7,7 +7,7 @@ description: how to cite properly
 
 ***
 
-- We should not treat citations as nouns. For example, do not write like these:
+- We should not treat citations as nouns. Do not write like these:
   - It was shown in [1] that ...
   - For details, see [2].
 - We should acknowledge the authors where appropriate, especially when their work is closely related to the paper. It is different when we talk about a general well-known concept and refer to a text book. In such cases, we need not include the authors' names. But if we want to say something invented for the first time, it is appropriate to acknowledge the person or the group that did that.

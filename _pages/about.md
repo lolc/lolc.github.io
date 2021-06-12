@@ -29,4 +29,4 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 ### research interests
-information theory, multiterminal communications, index coding, information-theoretic security
+Information theory, multiterminal communications, index coding, information-theoretic security
