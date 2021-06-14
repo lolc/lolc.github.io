@@ -8,7 +8,8 @@ nav: true
 <a href="#journal">Journal articles</a><br>
 <a href="#conf">Conference proceedings</a><br>
 <a href="#talk">Invited talks</a><br>
-<a href="#thesis">Theses</a>
+<a href="#thesis">Theses</a><br>
+(publication lists generated from BibTeX using [Jekyll-Scholar](https://www.rubydoc.info/gems/jekyll-scholar/0.4.0))
 
 ***
 
