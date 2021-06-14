@@ -12,7 +12,7 @@ nav: true
 
 ***
 
-<h2 id="courses">Courses Taught</h2>
+<h3 id="courses">Courses Taught</h3>
 
 - [ELEC3730 Digital and Computer Electronics 2](https://www.newcastle.edu.au/course/ELEC3730)
    - Semester 1, 2021
@@ -24,8 +24,8 @@ nav: true
 
 
 ***
-
-<h2 id="supervision">Research Supervision</h2>
+<br>
+<h3 id="supervision">Research Supervision</h3>
 
 ##### Current Postdoc
 - Yucheng Liu (since Aprill 2020)

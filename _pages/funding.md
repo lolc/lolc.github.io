@@ -11,8 +11,7 @@ nav: true
 
 
 ***
-
-<h2 id="funding">Research Funding</h2>
+<h3 id="funding">Research Funding</h3>
 
 1. **iMOVE Project** (2021-2024)
    - 5-032 - Automated Farm-to-Shop Freight Quality Monitoring and Assurance System
@@ -66,8 +65,9 @@ nav: true
 
 
 ***
+<br>
 
-<h2 id="award">Awards</h2>
+<h3 id="award">Awards</h3>
 
 1. **Exemplary Reviewer**, IEEE Transactions on Communications (2016 & 2017) 
 

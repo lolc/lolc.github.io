@@ -12,19 +12,19 @@ nav: true
 (publication lists generated from BibTeX using [Jekyll-Scholar](https://www.rubydoc.info/gems/jekyll-scholar/0.4.0))
 
 ***
-
-<h2 id="journal">Journal Articles</h2>
+<h3 id="journal">Journal Articles</h3>
 
 {% bibliography -f mypublications -q @article %}
 
 ***
-<h2 id="conf">Conference Proceedings</h2>
+<br>
+<h3 id="conf">Conference Proceedings</h3>
 
 {% bibliography -f mypublications -q @inproceedings %}
 
 ***
-
-<h2 id="talk">Invited Talks</h2>
+<br>
+<h3 id="talk">Invited Talks</h3>
 
 {: reversed="reversed"}
 
@@ -58,7 +58,7 @@ by <ins>L. Ong</ins><br>
 at the *Australian Communications Theory Workshop*, Canberra, Australia, Feb. 4, 2010
 
 ***
-
-<h2 id="thesis">Theses</h2>
+<br>
+<h3 id="thesis">Theses</h3>
 
 {% bibliography -f mypublications -q @phdthesis %}

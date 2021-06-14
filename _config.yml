@@ -8,7 +8,7 @@ middle_name:
 last_name: Ong
 email: lawrence.ong@newcastle.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+ This is the personal website of Dr Lawrence Ong, an associate professor at University of Newcastle. His research interests include information theory, network coding, index coding, wireless communications, information-theoretic security and privacy.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -51,7 +51,7 @@ orcid_id: 0000-0001-7109-5308 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: 1411918 # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Lawrence-Ong # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: https://www.newcastle.edu.au/profile/lawrence-ong # work page URL
 keybase_username: # your keybase user name
