@@ -2,17 +2,15 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description:
 nav: true
 ---
 
-<a href="#courses">Courses taught</a><br>
-<a href="#supervision">Research supervision</a><br>
-
+[Courses taught](#courses-taught)  
+[Research supervision](#research-supervision)
 
 ***
 
-<h3 id="courses">Courses Taught</h3>
+### Courses Taught
 
 - [ELEC3730 Digital and Computer Electronics 2](https://www.newcastle.edu.au/course/ELEC3730)
    - Semester 1, 2021
@@ -25,7 +23,7 @@ nav: true
 
 ***
 <br>
-<h3 id="supervision">Research Supervision</h3>
+### Research Supervision
 
 ##### Current Postdoc
 - Yucheng Liu (since Aprill 2020)
@@ -39,8 +37,11 @@ nav: true
 - Dr Min Li (currently at Zhejiang University)
 
 ##### Past PhD
-- Dr Behzad Asadi (currently at Mater Hospital)<br />[[thesis](https://hdl.handle.net/1959.13/1333509) (2017)]
-- Dr Chandra Thapa (currently at CSIRO)<br />[[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
+- Dr Behzad Asadi (currently at Mater Hospital)  
+[[thesis](https://hdl.handle.net/1959.13/1333509) (2017)]
+- Dr Chandra Thapa (currently at CSIRO)  
+[[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
 
 ##### Past PhD (co-supervision)
-- Dr Sachini Jayasooriya (currently at UNSW)<br />[[thesis](https://hdl.handle.net/1959.13/1343092) (2017)] 
+- Dr Sachini Jayasooriya (currently at UNSW)  
+[[thesis](https://hdl.handle.net/1959.13/1343092) (2017)] 

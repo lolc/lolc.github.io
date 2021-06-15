@@ -2,16 +2,14 @@
 layout: page
 permalink: /grants/
 title: grants
-description: 
 nav: true
 ---
 
-<a href="#funding">Research funding</a><br>
-<a href="#award">Awards</a><br>
-
+[Research funding](#research-funding)  
+[Awards](#awards)
 
 ***
-<h3 id="funding">Research Funding</h3>
+### Research Funding
 
 1. **iMOVE Project** (2021-2024)
    - 5-032 - Automated Farm-to-Shop Freight Quality Monitoring and Assurance System
@@ -63,11 +61,9 @@ nav: true
     - Granting body: The University of Newcastle
     - Total amount awarded: AUD 4,700
 
-
 ***
 <br>
-
-<h3 id="award">Awards</h3>
+### Awards
 
 1. **Exemplary Reviewer**, IEEE Transactions on Communications (2016 & 2017) 
 
