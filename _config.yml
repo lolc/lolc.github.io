@@ -42,7 +42,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: lolc # your GitHub user name
+github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 linkedin_username: onglawrence # your LinkedIn user name
@@ -50,7 +50,7 @@ scholar_userid: KJ5n4vAAAAAJ # your Google Scholar ID
 orcid_id: 0000-0001-7109-5308 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: 1411918 # your ID on Publons
+publons_id: # your ID on Publons
 research_gate_profile: Lawrence-Ong # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: https://www.newcastle.edu.au/profile/lawrence-ong # work page URL
