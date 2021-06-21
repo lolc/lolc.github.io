@@ -8,7 +8,7 @@ nav: true
 
 ***
 
-### Online Books
+### online books
 - **[The Elements of Style](http://www.bartleby.com/141/)**  
 by William Strunk, 1918
 - **[Information Theory, Inference, and Learning Algorithms](http://www.inference.phy.cam.ac.uk/mackay/itila/book.html)**  

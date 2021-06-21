@@ -1,0 +1,18 @@
+---
+layout: default
+---
+
+<h3>{{ page.titlelong }}</h3>
+
+
+  {% assign imgBasePath = page.title | prepend: "/assets/photos/" %}
+  {% for img in site.static_files %}
+  {% if img.path contains imgBasePath %}
+<img src="{{ site.baseurl }}{{ img.path }}" class="imgscaled">
+<p> <p />
+  {% endif %}
+  {% endfor %}
+
+<div>
+  <a href="{{ site.baseurl }}/photos/">back to albums</a>
+</div>

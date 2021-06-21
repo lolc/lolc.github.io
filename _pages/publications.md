@@ -5,26 +5,26 @@ title: publications
 nav: true
 ---
 
-[Journal articles](#journal-articles)  
-[Conference proceedings](#conference-proceedings)  
-[Invited talks](#invited-talks)  
-[Theses](#theses)  
+[journal articles](#journal-articles)  
+[conference proceedings](#conference-proceedings)  
+[invited talks](#invited-talks)  
+[theses](#theses)  
 (publication lists generated from BibTeX using [Jekyll-Scholar](https://www.rubydoc.info/gems/jekyll-scholar/0.4.0))
 
 ***
-### Journal Articles
+### journal articles
 
 {% bibliography -f mypublications -q @article %}
 
 ***
 <br>
-### Conference Proceedings
+### conference proceedings
 
 {% bibliography -f mypublications -q @inproceedings %}
 
 ***
 <br>
-### Invited Talks
+### invited talks
 
 {: reversed="reversed"}
 
@@ -59,6 +59,6 @@ at the *Australian Communications Theory Workshop*, Canberra, Australia, Feb. 4,
 
 ***
 <br>
-### Theses
+### theses
 
 {% bibliography -f mypublications -q @phdthesis %}

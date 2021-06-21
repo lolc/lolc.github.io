@@ -91,6 +91,8 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  images:
+    permalink: /images/:path/
 
 news_limit: 5
 
@@ -113,7 +115,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages', '_photo_pages']
 exclude:
   - bin
   - Gemfile
@@ -123,6 +125,7 @@ keep_files:
   - CNAME
   - .nojekyll
   - .git
+
 
 # Plug-ins
 plugins:
