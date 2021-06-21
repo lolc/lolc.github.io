@@ -1,9 +1,5 @@
 ---
 layout: default
-title: photos
-permalink: /photos/
-description:
-nav: yes
 ---
 
 <div class="post">
@@ -13,8 +9,8 @@ nav: yes
     <p class="post-description">{{ page.description }}</p>
   </header>
 
-      <hr />
-
+    <article>
+      {{ content }}
 <ul>
   {% comment %}
     Get all "photo_set" pages and display a list with links to them.
@@ -27,5 +23,7 @@ nav: yes
     </li>
   {% endfor %}
 </ul>
+      
+  </article>
 
 </div>
