@@ -10,8 +10,7 @@ email: lawrence.ong@newcastle.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
  This is the personal website of Dr Lawrence Ong, an associate professor at University of Newcastle. His research interests include information theory, network coding, index coding, wireless communications, information-theoretic security and privacy.
 footer_text: >
-  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
+  Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> and hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
 icon: favicon.png # the emoji used as the favicon
 url:  # the base hostname & protocol for your site
