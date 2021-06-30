@@ -15,3 +15,9 @@ by William Strunk, 1918
 by David MacKay, 2003
 - **[A First Course in Information Theory (preprint)](http://iest2.ie.cuhk.edu.hk/~whyeung/book/)**  
 by Raymond W. Yeung, 2002
+
+###  templates for university of newcastle
+- [Official letter](https://github.com/lolc/formal_letter_uon)
+- [Formal exam](https://github.com/lolc/exam_paper_uon)
+- [Quiz](https://github.com/lolc/quiz_paper_uon)
+
