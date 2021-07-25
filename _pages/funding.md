@@ -17,7 +17,7 @@ nav: true
    - Granting body: iMOVE CRC
    - Amount awarded: AUD 120,000
 2. **NEWstar Program** (2019-2021)  
-    - Chief Investigators: <ins>L. Ong</ins>
+    - Chief Investigator: <ins>L. Ong</ins>
     - Granting body: The University of Newcastle
     - Amount awarded: AUD 20,000
 3. **Discovery Project** (2019-2021)
