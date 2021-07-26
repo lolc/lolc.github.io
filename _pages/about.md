@@ -19,7 +19,7 @@ nav: false
 - **Telephone**:    +61 2 4921 5385
 - **Office**:    EA-G15, Callaghan Campus
 - **Mailing address**:  
-School of Electrical Engineering and Computing,  
+School of Engineering,  
 The University of Newcastle,  
 University Drive,  
 Callaghan, NSW 2308,  
