@@ -12,6 +12,10 @@ nav: true
 
 ### courses taught
 
+- [ELEC1310 Introduction to Electrical Engineering](https://www.newcastle.edu.au/course/ELEC1310)
+   - Semester 2, 2021 (with Colin Coates)
+- [ENGG2500 Sustainable Engineering Practice](https://www.newcastle.edu.au/course/ENGG2500)
+   - Semester 2, 2021 (with Terrence Summers)
 - [ELEC3730 Digital and Computer Electronics 2](https://www.newcastle.edu.au/course/ELEC3730)
    - Semester 1, 2021
 - ELEC4550/6550 Wireless Communication
@@ -29,7 +33,6 @@ nav: true
 - Yucheng Liu (since Aprill 2020)
 
 ##### current PhD students
-- Jin Yeong Tan (since February 2017)
 - Emelie Ekenstedt (since October 2019)
 
 ##### past postdoc
@@ -41,6 +44,7 @@ nav: true
 [[thesis](https://hdl.handle.net/1959.13/1333509) (2017)]
 - Dr Chandra Thapa (currently at CSIRO)  
 [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
+- Jin Yeong Tan (thesis examined and approved for PhD)
 
 ##### past PhD students (co-supervision)
 - Dr Sachini Jayasooriya (currently at UNSW)  
