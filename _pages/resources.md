@@ -3,7 +3,7 @@ layout: page
 title: resources
 permalink: /resources/
 description: free and useful stuff
-nav: true
+nav: no
 ---
 
 ***
