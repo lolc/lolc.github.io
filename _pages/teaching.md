@@ -30,10 +30,11 @@ nav: true
 ### research supervision
 
 ##### current postdoc
-- Yucheng Liu (since Aprill 2020)
+- Yucheng Liu (since Apr. 2020)
 
 ##### current PhD students
-- Emelie Ekenstedt (since October 2019)
+- Emelie Ekenstedt (since Oct. 2019)
+- Teran Wanniarachchi (since Aug. 2021)
 
 ##### past postdoc
 - Dr Behzad Asadi (currently at Mater Hospital)
@@ -44,7 +45,8 @@ nav: true
 [[thesis](https://hdl.handle.net/1959.13/1333509) (2017)]
 - Dr Chandra Thapa (currently at CSIRO)  
 [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
-- Jin Yeong Tan (thesis examined and approved for PhD)
+- Jin Yeong Tan (currently at University of Newcastle)   
+  [thesis (2021)]
 
 ##### past PhD students (co-supervision)
 - Dr Sachini Jayasooriya (currently at UNSW)  
