@@ -1,6 +1,6 @@
 ---
 layout: post
-title: PhD Scholarship available
+title: PhD Scholarship available (closed)
 date: 2021-05-19 15:59:00-0400
 inline: false
 ---
