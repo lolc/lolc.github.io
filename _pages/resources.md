@@ -15,6 +15,8 @@ by William Strunk, 1918
 by David MacKay, 2003
 - **[A First Course in Information Theory (preprint)](http://iest2.ie.cuhk.edu.hk/~whyeung/book/)**  
 by Raymond W. Yeung, 2002
+- **[Butterick's Practical Typography](https://practicaltypography.com/)**  
+by Matthew Butterick
 
 ###  templates for university of newcastle
 - [Official letter](https://github.com/lolc/formal_letter_uon)
