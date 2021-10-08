@@ -42,7 +42,7 @@ nav: true
 
 ##### past PhD students
 - Dr Behzad Asadi (currently at Mater Hospital)  
-[[thesis](https://hdl.handle.net/1959.13/1333509) (2017)]
+[[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:27096) (2017)]
 - Dr Chandra Thapa (currently at CSIRO)  
 [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
 - Jin Yeong Tan (currently at University of Newcastle)   
@@ -50,4 +50,4 @@ nav: true
 
 ##### past PhD students (co-supervision)
 - Dr Sachini Jayasooriya (currently at UNSW)  
-[[thesis](https://hdl.handle.net/1959.13/1343092) (2017)] 
+[[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:29091) (2017)] 
