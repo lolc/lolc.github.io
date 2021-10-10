@@ -46,7 +46,7 @@ nav: true
 - Dr Chandra Thapa (currently at CSIRO)  
 [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
 - Jin Yeong Tan (currently at University of Newcastle)   
-  [thesis (2021)]
+  [[thesis](http://hdl.handle.net/1959.13/1426913) (2021)]
 
 ##### past PhD students (co-supervision)
 - Dr Sachini Jayasooriya (currently at UNSW)  
