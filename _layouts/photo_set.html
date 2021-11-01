@@ -8,7 +8,7 @@ layout: default
   {% assign imgBasePath = page.title | prepend: "/assets/photos/" %}
   {% for img in site.static_files %}
   {% if img.path contains imgBasePath %}
-<img src="{{ site.baseurl }}{{ img.path }}" class="imgscaled">
+<img src="{{ site.baseurl }}{{ img.path }}" class="imgscaled z-depth-1 rounded">
 <p> <p />
   {% endif %}
   {% endfor %}
