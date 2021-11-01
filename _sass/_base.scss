@@ -531,6 +531,7 @@ html.transition *:after {
   transition-delay: 0 !important;
 }
 
+
 // LO: Modified link
      .mylinks {
         a.mybtn {
@@ -552,6 +553,7 @@ html.transition *:after {
 .imgscaled {
     max-width: 50%;
     border: 5px solid #000000;
+}
 
 // Extra Markdown style (post Customization)
 .post{
@@ -577,7 +579,7 @@ html.transition *:after {
           border-left: 5px solid var(--global-theme-color);
           padding: 8px;
       }
-}
+  }
 }
 
 .post-tags {

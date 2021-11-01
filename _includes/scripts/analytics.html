@@ -19,3 +19,13 @@
     panelbear('config', { site: '{{site.panelbear_analytics}}' });
 </script>
 {% endif %}
+
+
+{%-if site.goat_counter-%}
+<script data-goatcounter="https://{{ site.goat_counter }}.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
+<noscript>
+  <img src="https://{{ site.goat_counter }}.goatcounter.com/count?p=/test-img">
+</noscript>
+{%-endif-%}
