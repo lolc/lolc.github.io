@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="/">Associate Professor</a>. The University of Newcastle.
+subtitle: <a href="/">Associate Professor</a>. The University of Newcastle.
 profile:
   align: right
   image: prof_pic.jpg
