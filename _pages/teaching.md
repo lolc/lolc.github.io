@@ -16,8 +16,11 @@ nav: true
    - Semester 2, 2021 (with Colin Coates)
 - [ENGG2500 Sustainable Engineering Practice](https://www.newcastle.edu.au/course/ENGG2500)
    - Semester 2, 2021 (with Terrence Summers)
+- [ELEC2720 Introduction to Embedded Computing](https://www.newcastle.edu.au/course/ELEC2720)
+   - Semester 1, 2022
+
 - [ELEC3730 Digital and Computer Electronics 2](https://www.newcastle.edu.au/course/ELEC3730)
-   - Semester 1, 2021
+   - Semester 1, 2021-2022
 - ELEC4550/6550 Wireless Communication
    - Semester 2, 2016-2018 (with Jamil Khan)
    - Semester 2, 2019-2020
