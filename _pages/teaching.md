@@ -24,7 +24,7 @@ nav: true
 - ELEC4550/6550 Wireless Communication
    - Semester 2, 2016-2018 (with Jamil Khan)
    - Semester 2, 2019-2020
-- [ENGG3860/6860 Carbon Accounting and Energy Auditing](https://www.newcastle.edu.au/course/ENGG6860)
+- ENGG3860/6860 Carbon Accounting and Energy Auditing
    - Semester 1, 2019-2020
 
 
