@@ -31,7 +31,7 @@
             {% endunless %}
 	  {% endif %}
 	  {% endfor %}<br>
-  in <em>{{entry.journal}}</em>, {{entry.volume}}({{entry.number}}), {{entry.month}} {{entry.year}}<br>
+   <em>{{entry.journal}}</em>, {{entry.volume}}({{entry.number}}), {{entry.month}} {{entry.year}}<br>
   <div class="mylinks">
     {% if entry.doi %}
       <a href="https://dx.doi.org/{{ entry.doi }}" class="mybtn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
@@ -72,7 +72,7 @@
             {% endunless %}
 	  {% endif %}
 	  {% endfor %}<br>
-  in <em>Proc. {{entry.booktitle}}</em>, {{entry.address}}, {{entry.month}} {{entry.year}}<br>
+   <em>Proc. {{entry.booktitle}}</em>, {{entry.address}}, {{entry.month}} {{entry.year}}<br>
   <div class="mylinks">
     {% if entry.doi %}
       <a href="https://dx.doi.org/{{ entry.doi }}" class="mybtn btn-sm z-depth-0" role="button" target="_blank">DOI</a>
