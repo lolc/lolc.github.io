@@ -3,6 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
+nav_order: 2
 ---
 
 [courses taught](#courses-taught)  
