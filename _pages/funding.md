@@ -3,6 +3,7 @@ layout: page
 permalink: /grants/
 title: grants
 nav: true
+nav_order: 2
 ---
 
 [research funding](#research-funding)  

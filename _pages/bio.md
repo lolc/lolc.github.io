@@ -4,6 +4,7 @@ permalink: /bio/
 title: biography
 description: about me
 nav: true
+nav_order: 1
 ---
 ***
 Lawrence Ong received the BEng degree (1st Hons) in electrical engineering from the National University of Singapore (NUS), Singapore, in 2001. He subsequently received the MPhil degree from the University of Cambridge, UK, in 2004 and the PhD degree from NUS in 2008.
