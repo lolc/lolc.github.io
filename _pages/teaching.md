@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 4
+nav_order: 5
 ---
 
 [courses taught](#courses-taught)  
@@ -33,20 +33,22 @@ nav_order: 4
 <br>
 ### research supervision
 
-##### current postdoc
-- Yucheng Liu (since Apr. 2020)
-
 ##### current PhD students
 - Emelie Ekenstedt (since Oct. 2019)
 - Teran Wanniarachchi (since Aug. 2021)
+- Farhan Alshammari (since Aug. 2022)
+
+##### current Master student
+- Junping Wu (since Mar. 2022)
 
 ##### past postdoc
 - Dr Behzad Asadi (currently at Mater Hospital)
 - Dr Min Li (currently at Zhejiang University)
+- Yucheng Liu
 
 ##### past PhD students
 - Dr Behzad Asadi (currently at Mater Hospital)  
-[[thesis](http://hdl.handle.net/1959.13/1333509) (2017)]
+[[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:27096) (2017)]
 - Dr Chandra Thapa (currently at CSIRO)  
 [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
 - Jin Yeong Tan (currently at University of Newcastle)   
@@ -54,4 +56,4 @@ nav_order: 4
 
 ##### past PhD students (co-supervision)
 - Dr Sachini Jayasooriya (currently at UNSW)  
-[[thesis](http://hdl.handle.net/1959.13/1343092) (2017)] 
+[[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:29091) (2017)] 
