@@ -8,7 +8,6 @@
           {% if author.last contains "Ong"%}
               {% assign author_is_self = true %}
           {% endif %}
-          
           {% if forloop.length == 1 %}
             {% if author_is_self %}
               <u>{{author.last}}</u>
