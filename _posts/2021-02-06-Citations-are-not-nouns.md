@@ -3,6 +3,7 @@ layout: post
 title: Citations are not nouns
 date: 2021-02-06 11:12:00-0400
 description: how to cite properly
+tags: formatting
 ---
 
 ***
