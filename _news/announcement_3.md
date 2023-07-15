@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Data61 PhD scholarship program
+title: Data61 PhD scholarship program (closed)
 date: 2021-09-12 15:00:00
 inline: false
 ---
