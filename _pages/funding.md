@@ -12,6 +12,12 @@ nav_order: 2
 ***
 ### research funding
 
+1. **NSW Connectivity Innovation Network Scholarship Award** (2023-2026)
+   - New communication methods to enable federated learning for bushfire prediction using LEO satellites
+   - Chief Investigators: D. Ngo, <ins>L. Ong</ins>, N. Tran
+   - Granting body: NSW CIN
+   - Amount awarded: AUD 32,500
+
 1. **iMOVE Project** (2021-2024)
    - 5-032 - Automated Farm-to-Shop Freight Quality Monitoring and Assurance System
    - Chief Investigators: J. Khan, <ins>L. Ong</ins>, Q. Vuong, D. Ngo
