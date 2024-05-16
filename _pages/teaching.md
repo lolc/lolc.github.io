@@ -37,6 +37,7 @@ nav_order: 5
 - Emelie Ekenstedt (since Oct. 2019)
 - Farhan Alshammari (since Aug. 2022)
 - Lachlan Drake (since Nov. 2023)
+- James Rhodes (since Feb. 2024)
 
 ##### current Master student
 - Junping Wu (since Mar. 2022)
@@ -49,11 +50,9 @@ nav_order: 5
 ##### past PhD students
 - Dr Behzad Asadi 
 [[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:27096) (2017)]
+- Dr Sachini Jayasooriya 
+[[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:29091) (2017)]
 - Dr Chandra Thapa (currently at CSIRO)  
 [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
 - Jin Yeong Tan (currently at University of Newcastle)   
   [[thesis](http://hdl.handle.net/1959.13/1426913) (2021)]
-
-##### past PhD students (co-supervision)
-- Dr Sachini Jayasooriya 
-[[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:29091) (2017)] 
