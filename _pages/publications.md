@@ -30,7 +30,7 @@ nav_order: 3
 
 {: reversed="reversed"}
 
-1.Shades of Index Coding**
+1. **Shades of Index Coding**
 by <ins>L. Ong</ins>  
 at the *Australian Communications Theory Workshop* ([AusCTW 2023](https://sites.google.com/view/ausctw-2023/))
 1. **Pliable Communications**  

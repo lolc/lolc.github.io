@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A full PhD scholarship at University of Newcastle
+title: A full PhD scholarship at University of Newcastle (closed)
 date: 2023-07-12 15:00:00
 inline: false
 ---
