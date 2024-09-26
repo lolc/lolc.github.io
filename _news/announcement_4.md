@@ -26,10 +26,6 @@ A/Prof Duy Ngo, A/Prof Lawrence Ong, A/Prof Nguyen Tran
 
 **08 August 2023**
 
-### URL
-
-[https://www.newcastle.edu.au/study/research/phd-scholarships/phd-scholarships/new-communication-methods-to-enable-federated-learning-for-bushfire-prediction-using-leo-satellites]([https://www.newcastle.edu.au/study/research/phd-scholarships/phd-scholarships/new-communication-methods-to-enable-federated-learning-for-bushfire-prediction-using-leo-satellites)
-
 ### Information
 
 If you are interested in applying for this scholarship, please contact me.
