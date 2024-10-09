@@ -13,53 +13,57 @@ nav_order: 3
 [theses](#theses)  
 (publication lists generated from BibTeX using [Jekyll-Scholar](https://www.rubydoc.info/gems/jekyll-scholar/0.4.0))
 
-***
+---
+
 ### journal articles
 
 {% bibliography -f mypublications -q @article %}
 
-***
+---
+
 <br>
 ### conference proceedings
 
 {% bibliography -f mypublications -q @inproceedings %}
 
-***
+---
+
 <br>
 ### invited talks
 
 {: reversed="reversed"}
 
 1. **Shades of Index Coding**
-by <ins>L. Ong</ins>  
-at the *Australian Communications Theory Workshop* ([AusCTW 2023](https://sites.google.com/view/ausctw-2023/))
+   by <ins>L. Ong</ins>  
+   at the _Australian Communications Theory Workshop_ ([AusCTW 2023](https://sites.google.com/view/ausctw-2023/))
 1. **Pliable Communications**  
-by <ins>L. Ong</ins>  
-at the *Australian Communications Theory Workshop* ([AusCTW 2020](https://sites.google.com/view/ausctw/)) Webminar, Oct. 9, 2020
+   by <ins>L. Ong</ins>  
+   at the _Australian Communications Theory Workshop_ ([AusCTW 2020](https://sites.google.com/view/ausctw/)) Webminar, Oct. 9, 2020
 1. **Index Coding – What to Do After Caching?**  
-by <ins>L. Ong</ins>  
-at *National University of Singapore*, Dec. 10, 2018.
+   by <ins>L. Ong</ins>  
+   at _National University of Singapore_, Dec. 10, 2018.
 1. **Information-Theoretic Security via Side Information**  
-by <ins>L. Ong</ins>  
-at the *Australian Communications Theory Workshop*, Canberra, Australia, Jan. 18, 2017
+   by <ins>L. Ong</ins>  
+   at the _Australian Communications Theory Workshop_, Canberra, Australia, Jan. 18, 2017
 1. **Index coding – improving broadcast rates using side information**  
-by <ins>L. Ong</ins>  
-at the *Celebration of Shannon's 100th Birthday*, University of Technology Sydney, Australia, Apr. 29, 2016
+   by <ins>L. Ong</ins>  
+   at the _Celebration of Shannon's 100th Birthday_, University of Technology Sydney, Australia, Apr. 29, 2016
 1. **Linear Index Codes are Optimal Up to Five Nodes**  
-by <ins>L. Ong</ins>  
-at *Workshop at BIRS: Between Shannon and Hamming: Network Information Theory and Combinatorics* (15w5130), Banff, Canada, Mar. 3, 2015 [[slides](http://www.birs.ca//workshops//2015/15w5130/files/ong.pdf)] 
+   by <ins>L. Ong</ins>  
+   at _Workshop at BIRS: Between Shannon and Hamming: Network Information Theory and Combinatorics_ (15w5130), Banff, Canada, Mar. 3, 2015 [[slides](http://www.birs.ca//workshops//2015/15w5130/files/ong.pdf)]
 1. **Functional-Decode-Forward for Multi-Way Relay Channels**  
-by <ins>L. Ong</ins>  
-at *Institute for Infocomm Research* (I<sup>2</sup>R), Singapore, Nov. 23, 2010  
-(sponsored by IEEE Vehicular Technology Society (VTS) Chapter, Singapore Section)
+   by <ins>L. Ong</ins>  
+   at _Institute for Infocomm Research_ (I<sup>2</sup>R), Singapore, Nov. 23, 2010  
+   (sponsored by IEEE Vehicular Technology Society (VTS) Chapter, Singapore Section)
 1. **Functional-Decode-Forward for Multi-Way Relay Channels**  
-by <ins>L. Ong</ins>  
-at *Institute for Telecommunications Research*  (ITR), Adelaide, Australia, Aug. 17, 2010
+   by <ins>L. Ong</ins>  
+   at _Institute for Telecommunications Research_ (ITR), Adelaide, Australia, Aug. 17, 2010
 1. **Coding Strategies for Relay Networks**  
-by <ins>L. Ong</ins>  
-at the *Australian Communications Theory Workshop*, Canberra, Australia, Feb. 4, 2010
+   by <ins>L. Ong</ins>  
+   at the _Australian Communications Theory Workshop_, Canberra, Australia, Feb. 4, 2010
 
-***
+---
+
 <br>
 ### theses
 

@@ -4,8 +4,10 @@ title: Data61 PhD scholarship program (closed)
 date: 2021-09-12 15:00:00
 inline: false
 ---
-***
-The Data61 PhD scholarship program will be open for application from 1 October 2021. 
+
+---
+
+The Data61 PhD scholarship program will be open for application from 1 October 2021.
 
 If you are interested in working toward a PhD degree on machine learning and cyber security under this program, please contact me.
 

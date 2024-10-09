@@ -8,23 +8,24 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-news: true  # includes a list of news items
+news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 nav: false
 ---
 
 ### contact details
-- **Email**:    law---ce.ong@newcastle.edu.au  
-(Substitute law---ce with my first name before sending)
-- **Telephone**:    +61 2 4921 5385
-- **Office**:    EA-G15, Callaghan Campus
+
+- **Email**: law---ce.ong@newcastle.edu.au  
+  (Substitute law---ce with my first name before sending)
+- **Telephone**: +61 2 4921 5385
+- **Office**: EA-G15, Callaghan Campus
 - **Mailing address**:  
-School of Engineering,  
-The University of Newcastle,  
-University Drive,  
-Callaghan, NSW 2308,  
-Australia
+  School of Engineering,  
+  The University of Newcastle,  
+  University Drive,  
+  Callaghan, NSW 2308,  
+  Australia
 
 <br>
 ### qualifications
