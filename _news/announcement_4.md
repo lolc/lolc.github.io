@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A full PhD scholarship at University of Newcastle
+title: A full PhD scholarship at University of Newcastle (closed)
 date: 2023-07-12 15:00:00
 inline: false
 ---
@@ -25,10 +25,6 @@ A/Prof Duy Ngo, A/Prof Lawrence Ong, A/Prof Nguyen Tran
 ### Application closing date
 
 **08 August 2023**
-
-### URL
-
-[https://www.newcastle.edu.au/study/research/phd-scholarships/phd-scholarships/new-communication-methods-to-enable-federated-learning-for-bushfire-prediction-using-leo-satellites]([https://www.newcastle.edu.au/study/research/phd-scholarships/phd-scholarships/new-communication-methods-to-enable-federated-learning-for-bushfire-prediction-using-leo-satellites)
 
 ### Information
 

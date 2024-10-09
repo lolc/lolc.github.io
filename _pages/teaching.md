@@ -3,7 +3,7 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 5
+nav_order: 6
 ---
 
 [courses taught](#courses-taught)  
@@ -35,12 +35,8 @@ nav_order: 5
 
 ##### current PhD students
 - Emelie Ekenstedt (since Oct. 2019)
-- Farhan Alshammari (since Aug. 2022)
 - Lachlan Drake (since Nov. 2023)
 - James Rhodes (since Feb. 2024)
-
-##### current Master student
-- Junping Wu (since Mar. 2022)
 
 ##### past postdoc
 - Dr Behzad Asadi 
@@ -56,3 +52,6 @@ nav_order: 5
 [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
 - Jin Yeong Tan (currently at University of Newcastle)   
   [[thesis](http://hdl.handle.net/1959.13/1426913) (2021)]
+
+##### past MPhil student
+- Junping Wu (2024)

@@ -30,7 +30,7 @@ nav_order: 3
 
 {: reversed="reversed"}
 
-1.Shades of Index Coding**
+1. **Shades of Index Coding**
 by <ins>L. Ong</ins>  
 at the *Australian Communications Theory Workshop* ([AusCTW 2023](https://sites.google.com/view/ausctw-2023/))
 1. **Pliable Communications**  
@@ -44,7 +44,7 @@ by <ins>L. Ong</ins>
 at the *Australian Communications Theory Workshop*, Canberra, Australia, Jan. 18, 2017
 1. **Index coding – improving broadcast rates using side information**  
 by <ins>L. Ong</ins>  
-at the [*Celebration of Shannon's 100th Birthday*](http://sites.google.com/site/shannon100th/home), University of Technology Sydney, Australia, Apr. 29, 2016
+at the *Celebration of Shannon's 100th Birthday*, University of Technology Sydney, Australia, Apr. 29, 2016
 1. **Linear Index Codes are Optimal Up to Five Nodes**  
 by <ins>L. Ong</ins>  
 at *Workshop at BIRS: Between Shannon and Hamming: Network Information Theory and Combinatorics* (15w5130), Banff, Canada, Mar. 3, 2015 [[slides](http://www.birs.ca//workshops//2015/15w5130/files/ong.pdf)] 
