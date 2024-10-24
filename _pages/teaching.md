@@ -59,4 +59,5 @@ nav_order: 6
 
 ##### past MPhil student
 
-- Junping Wu (2024)
+- Junping Wu
+  [[thesis](https://hdl.handle.net/1959.13/1511278) (2024)]
