@@ -18,7 +18,7 @@ nav_order: 2
    - New communication methods to enable federated learning for bushfire prediction using LEO satellites
    - Chief Investigators: D. Ngo, <ins>L. Ong</ins>, N. Tran
    - Granting body: NSW Connectivity Innovation Network
-   - Amount awarded: AUD 32,500
+   - Amount awarded: AUD 97,500
 
 2. **Global Connections Fund - Bridging Grants** (2022)
 
