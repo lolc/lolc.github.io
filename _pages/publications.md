@@ -35,10 +35,10 @@ nav_order: 3
 
 1. **Shades of Index Coding**
    by <ins>L. Ong</ins>  
-   at the _Australian Communications Theory Workshop_ ([AusCTW 2023](https://sites.google.com/view/ausctw-2023/))
+   at the _Australian Communications Theory Workshop_ ([AusCTW 2023](https://sites.google.com/view/ausctw-2023/)), Darwin, Australia, June 21--23, 2023
 1. **Pliable Communications**  
    by <ins>L. Ong</ins>  
-   at the _Australian Communications Theory Workshop_ ([AusCTW 2020](https://sites.google.com/view/ausctw/)) Webminar, Oct. 9, 2020
+   at the _Australian Communications Theory Workshop_ ([AusCTW 2020](https://sites.google.com/view/ausctw/)), Webminar, Oct. 9, 2020
 1. **Index Coding – What to Do After Caching?**  
    by <ins>L. Ong</ins>  
    at _National University of Singapore_, Dec. 10, 2018.
