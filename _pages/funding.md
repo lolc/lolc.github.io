@@ -9,71 +9,102 @@ nav_order: 2
 [research funding](#research-funding)  
 [awards](#awards)
 
-***
+---
+
 ### research funding
 
 1. **NSW Connectivity Innovation Network Scholarship Award** (2023--2026)
+
    - New communication methods to enable federated learning for bushfire prediction using LEO satellites
    - Chief Investigators: D. Ngo, <ins>L. Ong</ins>, N. Tran
-   - Granting body: NSW CIN
-   - Amount awarded: AUD 32,500
+   - Granting body: NSW Connectivity Innovation Network
+   - Amount awarded: AUD 97,500
 
-1. **iMOVE Project** (2021--2024)
+2. **Global Connections Fund - Bridging Grants** (2022)
+
+   - A Smart System for Monitoring and Quality Control of Dragon Fruit in Vietnam’s Cold Freight Trucks
+   - Chief Investigators: D. Ngo, J. Welsh, <ins>L. Ong</ins>, Q. Vuong, Q.-C. Nguyen
+   - Granting body: Australian Academy of Technology and Engineering
+   - Amount awarded: AUD 50,000
+
+3. **iMOVE Project** (2021--2024)
+
    - 5-032 - Automated Farm-to-Shop Freight Quality Monitoring and Assurance System
    - Chief Investigators: J. Khan, <ins>L. Ong</ins>, Q. Vuong, D. Ngo
    - Granting body: iMOVE CRC
    - Amount awarded: AUD 120,000
-2. **NEWstar Program** (2019--2021)  
-    - Chief Investigator: <ins>L. Ong</ins>
-    - Granting body: The University of Newcastle
-    - Amount awarded: AUD 20,000
-3. **Discovery Project** (2019--2021)
+
+4. **NEWstar Program** (2019--2021)
+
+   - Chief Investigator: <ins>L. Ong</ins>
+   - Granting body: The University of Newcastle
+   - Amount awarded: AUD 20,000
+
+5. **Discovery Project** (2019--2021)
+
    - DP190100770 - Information-theoretic secure communications via caching
    - Chief Investigators: <ins>L. Ong</ins>, P. L. Yeoh, S. J. Johnson, J. Kliewer
    - Granting body: Australian Research Council
    - Amount awarded: AUD 420,000
-4. **Discovery Project** (2015--2017)
+
+6. **Discovery Project** (2015--2017)
+
    - DP150100903 - New strategies to transmit data: Coping with exponential growth in demand
    - Chief Investigators: S. J. Johnson, <ins>L. Ong</ins>, G. Lechner
    - Granting body: Australian Research Council
    - Amount awarded: AUD 355,100
-5. **Faculty Strategic Pilot Grant** (2015)  
-    - Simultaneous wireless information and power transfer: Getting ready for the Internet of Things
-    - Chief Investigators: D. Ngo, <ins>L. Ong</ins>, R. Middleton
-    - Granting body: The University of Newcastle
-    - Amount awarded: AUD 5,000
-6. **Deputy-Vice-Chancellor (Research) Research Support for Future Fellow**
+
+7. **Faculty Strategic Pilot Grant** (2015)
+
+   - Simultaneous wireless information and power transfer: Getting ready for the Internet of Things
+   - Chief Investigators: D. Ngo, <ins>L. Ong</ins>, R. Middleton
+   - Granting body: The University of Newcastle
+   - Amount awarded: AUD 5,000
+
+8. **Deputy-Vice-Chancellor (Research) Research Support for Future Fellow**
+
    - Chief Investigator: <ins>L. Ong</ins>
    - Granting body: The University of Newcastle
    - Amount awarded: AUD 60,000
-7. **Future Fellowship** (2014--2018)
+
+9. **Future Fellowship** (2014--2018)
+
    - FT140100219 - Readying Wireless Networks for Future Communications Systems: From Ubiquitous Computing to the Internet of Things
    - Chief Investigator: <ins>L. Ong</ins>
    - Granting body: Australian Research Council
    - Amount awarded: AUD 656,967
-8. **Discovery Early Career Researcher Award (DECRA)** (2012--2014)
+
+10. **Discovery Early Career Researcher Award (DECRA)** (2012--2014)
+
     - DE120100246 - Achieving High-Speed Wireless Communication Networks through Joint Channel and Network Coding
     - Chief Investigator: <ins>L. Ong</ins>
     - Granting body: Australian Research Council
     - Amount awarded: AUD 375,000
-9. **Discovery Project** (2010--2012)
+
+11. **Discovery Project** (2010--2012)
+
     - DP1093114 - Optimising Cooperation in Multiterminal Wireless Networks
     - Chief Investigators: S. J. Johnson and <ins>L. Ong</ins>
     - Granting body: Australian Research Council
     - Amount awarded: AUD 150,000
-10. **New Staff Grant** (2010--2011)
+
+12. **New Staff Grant** (2010--2011)
+
     - Chief Investigator: <ins>L. Ong</ins>
     - Granting body: The University of Newcastle
     - Amount awarded: AUD 10,000
-11. **Travel Grant** (2008, 2013, 2014)
-     - Granting body: The University of Newcastle
-     - Total amount awarded: AUD 4,700
 
-***
+13. **Travel Grant** (2008, 2013, 2014)
+
+    - Granting body: The University of Newcastle
+    - Total amount awarded: AUD 4,700
+
+---
+
 <br>
 ### awards
 
-1. **Exemplary Reviewer**, IEEE Transactions on Communications (2016 & 2017) 
+1. **Exemplary Reviewer**, IEEE Transactions on Communications (2016 & 2017)
 
 2. **Future Fellowship**, Australian Research Council (2014--2018)
 

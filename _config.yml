@@ -4,18 +4,17 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Lawrence
-middle_name: 
+middle_name:
 last_name: Ong
 email: lawrence.ong@newcastle.edu.au
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
- This is the personal website of Dr Lawrence Ong, an associate professor at University of Newcastle. His research interests include information theory, network coding, index coding, wireless communications, information-theoretic security and privacy.
+  This is the personal website of Dr Lawrence Ong, an associate professor at University of Newcastle. His research interests include information theory, network coding, index coding, wireless communications, information-theoretic security and privacy.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> and hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Information theory, network coding, wireless communications, cybersecurity, data privacy
-
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 
-icon: favicon.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: favicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://www.lawrenceong.com # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -232,7 +231,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages', '_photo_pages']
+include: ["_pages", "_photo_pages"]
 exclude:
   - bin/
   - CONTRIBUTING.md
@@ -256,7 +255,6 @@ exclude:
 keep_files:
   - CNAME
   - .nojekyll
-
 
 # Plug-ins
 plugins:
@@ -311,7 +309,7 @@ jekyll-archives:
     tag: "/blog/tag/:name/"
     category: "/blog/category/:name/"
 
-display_tags: ['formatting'] # these tags will be displayed on the front page of your blog
+display_tags: ["formatting"] # these tags will be displayed on the front page of your blog
 # these tags will be displayed on the front page of your blog
 #display_categories: ["external-services"] # these categories will be displayed on the front page of your blog
 
@@ -344,7 +342,6 @@ scholar:
 
   bibliography_list_attributes:
     reversed: "reversed"
-
 
   query: "@*"
 #  group_by: year
