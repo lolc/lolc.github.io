@@ -40,19 +40,19 @@ nav_order: 6
 
 ##### past postdoc
 
-- Dr Behzad Asadi
-- Dr Min Li (currently at Zhejiang University)
-- Yucheng Liu (currently at Dolby)
+- Dr Behzad Asadi (currently with Auto & General)
+- Dr Min Li (currently with Zhejiang University)
+- Yucheng Liu (currently with Dolby)
 
 ##### past PhD students
 
-- Dr Behzad Asadi
+- Dr Behzad Asadi (currently with Auto & General)
   [[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:27096) (2017)]
 - Dr Sachini Jayasooriya
   [[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:29091) (2017)]
-- Dr Chandra Thapa (currently at CSIRO)  
+- Dr Chandra Thapa (currently with CSIRO)  
   [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
-- Jin Yeong Tan (currently at University of Newcastle)  
+- Jin Yeong Tan (currently with the University of Newcastle)  
   [[thesis](http://hdl.handle.net/1959.13/1426913) (2021)]
 
 ##### past MPhil student
