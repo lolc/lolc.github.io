@@ -14,16 +14,15 @@ nav_order: 6
 ### courses taught
 
 - [ELEC1310 Introduction to Electrical Engineering](https://www.newcastle.edu.au/course/ELEC1310)
-  - Semester 2, 2021 (with Colin Coates)
+  - Semester 2, 2021
 - [ENGG2500 Sustainable Engineering Practice](https://www.newcastle.edu.au/course/ENGG2500)
-  - Semester 2, 2021 (with Terrence Summers)
+  - Semester 2, 2021
 - [ELEC2720 Introduction to Embedded Computing](https://www.newcastle.edu.au/course/ELEC2720)
-  - Semester 1, 2022--2025
+  - Semester 1, 2022--2026
 - [ELEC3730 Digital and Computer Electronics 2](https://www.newcastle.edu.au/course/ELEC3730)
-  - Semester 1, 2021--2025
+  - Semester 1, 2021--2026
 - ELEC4550/6550 Wireless Communication
-  - Semester 2, 2016--2018 (with Jamil Khan)
-  - Semester 2, 2019--2020
+  - Semester 2, 2016--2020
 - ENGG3860/6860 Carbon Accounting and Energy Auditing
   - Semester 1, 2019--2020
 
