@@ -13,13 +13,13 @@ nav_order: 6
 
 ### courses taught
 
-- [ELEC1310 Introduction to Electrical Engineering](https://www.newcastle.edu.au/course/ELEC1310)
+- [ELEC1310 Introduction to Electrical Engineering](https://handbook.newcastle.edu.au/course/2026/ELEC1310)
   - Semester 2, 2021
-- [ENGG2500 Sustainable Engineering Practice](https://www.newcastle.edu.au/course/ENGG2500)
+- [ENGG2500 Sustainable Engineering Practice](https://handbook.newcastle.edu.au/course/2026/ENGG2500)
   - Semester 2, 2021
-- [ELEC2720 Introduction to Embedded Computing](https://www.newcastle.edu.au/course/ELEC2720)
+- [ELEC2720 Introduction to Embedded Computing](https://handbook.newcastle.edu.au/course/2026/ELEC2720)
   - Semester 1, 2022--2026
-- [ELEC3730 Digital and Computer Electronics 2](https://www.newcastle.edu.au/course/ELEC3730)
+- [ELEC3730 Digital and Computer Electronics 2](https://handbook.newcastle.edu.au/course/2026/ELEC3730)
   - Semester 1, 2021--2026
 - ELEC4550/6550 Wireless Communication
   - Semester 2, 2016--2020
@@ -46,13 +46,13 @@ nav_order: 6
 ##### past PhD students
 
 - Dr Behzad Asadi (currently with Auto & General)
-  [[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:27096) (2017)]
+  [[thesis](https://hdl.handle.net/1959.13/1333509) (2017)]
 - Dr Sachini Jayasooriya
-  [[thesis](https://nova.newcastle.edu.au/vital/access/manager/Repository/uon:29091) (2017)]
+  [[thesis](https://hdl.handle.net/1959.13/1343092) (2017)]
 - Dr Chandra Thapa (currently with CSIRO)  
   [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
 - Jin Yeong Tan (currently with the University of Newcastle)  
-  [[thesis](http://hdl.handle.net/1959.13/1426913) (2021)]
+  [[thesis](https://hdl.handle.net/1959.13/1426913) (2021)]
 
 ##### past MPhil student
 
