@@ -15,7 +15,7 @@ tags: formatting
 
 - When referring to general, well-known concepts from textbooks, including the authors' names is unnecessary. For original contributions, it is appropriate to credit the person or group responsible.
 
-- While treating citations as nouns is allowed by [IEEE](https://libraryguides.vu.edu.au/ieeereferencing/gettingstarted), it is considered poor style. Many publishers, such as [APA](https://apastyle.apa.org/style-grammar-guidelines/references/examples/journal-article-references), [Nature](https://www.nature.com/nature/for-authors/formatting-guide), and [Oxford](https://libraryguides.vu.edu.au/oxford-referencing/getting-started-with-oxford-referencing), discourage this practice.
+- While treating citations as nouns is allowed by [IEEE](https://www.deakin.edu.au/students/study-support/study-resources/referencing/ieee), it is considered poor style. Many publishers, such as [APA](https://apastyle.apa.org/style-grammar-guidelines/references/examples/journal-article-references), [Nature](https://www.nature.com/nature/for-authors/formatting-guide), and [Oxford](https://www.deakin.edu.au/students/study-support/study-resources/referencing/oxford), discourage this practice.
 
 - Citation labels should not interrupt the flow of the text. The reader should be able to understand the content without needing to flip to the reference list. A good practice is to first write the text naturally, ensuring it flows well grammatically and syntactically, and then add the citations in the required format (e.g., superscripts).
 
