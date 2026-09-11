@@ -36,6 +36,8 @@ nav_order: 6
 - Emelie Ekenstedt (since Oct. 2019)
 - Lachlan Drake (since Nov. 2023)
 - James Rhodes (since Feb. 2024)
+- Jamal Bolaghi (since Nov. 2025)
+- Nicholas Politis (since Aug. 2026)
 
 ##### past postdoc
 
@@ -45,9 +47,9 @@ nav_order: 6
 
 ##### past PhD students
 
-- Dr Behzad Asadi (currently with Auto & General)
+- Dr Behzad Asadi (currently with Auto & General)  
   [[thesis](https://hdl.handle.net/1959.13/1333509) (2017)]
-- Dr Sachini Jayasooriya
+- Dr Sachini Jayasooriya  
   [[thesis](https://hdl.handle.net/1959.13/1343092) (2017)]
 - Dr Chandra Thapa (currently with CSIRO)  
   [[thesis](https://hdl.handle.net/1959.13/1388175) (2018)]
@@ -56,5 +58,5 @@ nav_order: 6
 
 ##### past MPhil student
 
-- Junping Wu
+- Junping Wu  
   [[thesis](https://hdl.handle.net/1959.13/1511278) (2024)]
